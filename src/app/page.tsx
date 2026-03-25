@@ -62,8 +62,8 @@ export default function PortfolioHome() {
               I am a passionate Full-Stack Developer creating beautiful, scalable, and dynamic web applications that engage users and drive results.
             </p>
             <div className="hero-actions animate-fade-in delay-3">
-              <Link href="/#about" className="btn btn-primary">About Me</Link>
-              <Link href="/#contact" className="btn btn-outline">Let's Talk</Link>
+              <a href="#about" className="btn btn-primary">About Me</a>
+              <a href="#contact" className="btn btn-outline">Let's Talk</a>
             </div>
           </div>
           <div className="hero-image animate-fade-in delay-2">
