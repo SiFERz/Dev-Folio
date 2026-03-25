@@ -4,8 +4,8 @@ import { useState, useRef, useEffect } from 'react';
 import basePath from '@/lib/basePath';
 
 const PLAYLIST = [
-  { title: 'Now Or Never', src: `${basePath}/music/bgm.mp3` },
   { title: 'ดาวค้างฟ้า', src: `${basePath}/music/ดาวคางฟา.mp3` },
+  { title: 'Now Or Never', src: `${basePath}/music/bgm.mp3` },
   { title: 'ซ้ำรอย', src: `${basePath}/music/ซำรอย.mp3` },
   { title: 'Cinnamon Girl', src: `${basePath}/music/Cinnamon Girl.mp3` }
 ];
