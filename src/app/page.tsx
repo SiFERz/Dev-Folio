@@ -66,9 +66,9 @@ export default function PortfolioHome() {
               <a href="#contact" className="btn btn-outline">Let's Talk</a>
             </div>
           </div>
-          <div className="hero-image animate-fade-in delay-2">
+          {/* <div className="hero-image animate-fade-in delay-2">
             <img src={`${basePath}/images/profile.jpg`} alt="Profile" loading="lazy" />
-          </div>
+          </div> */}
         </section>
 
         {/* Skills Marquee */}
